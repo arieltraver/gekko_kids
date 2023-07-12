@@ -1,0 +1,30 @@
+body {
+    background-color:lightseagreen;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
+}
+
+h1 {
+    color: lavenderblush;
+    font-weight:10px;
+    text-shadow: 2px 2px black;
+    font-size:xx-large;
+
+}
+a {
+    color:lime;
+}
+a :hover {
+    color:aqua;
+}
+
+a :visited {
+    color: darkred;
+}
+p {
+    color:green;
+}
+.myfavoritecolor {
+    color:blue;
+    text-shadow:3px 3px navy;
+}
