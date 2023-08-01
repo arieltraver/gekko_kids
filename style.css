@@ -25,6 +25,13 @@ p {
     color:green;
 }
 .myfavoritecolor {
-    color:blue;
+    color: #b3ffd9;
     text-shadow:3px 3px navy;
+}
+
+.coolButton {
+    border-width: 0px;
+    border-radius: 4px;
+    color:white;
+    background-color:darkblue
 }
